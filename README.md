@@ -1,5 +1,5 @@
 # Getting Started with Create React App
-
+This project is hosted. You can check it here[Link](https://twitter-clone-2c91a.web.app/)
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
